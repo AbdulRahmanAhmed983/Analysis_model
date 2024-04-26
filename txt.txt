@@ -1,0 +1,4 @@
+pip install pandas
+pip install --user -U nltk --force
+pip install --user -U numpy (optional)
+pip install -U scikit-learn
